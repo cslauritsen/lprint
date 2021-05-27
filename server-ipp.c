@@ -13,6 +13,7 @@
 //
 
 #include "lprint.h"
+#include <stdbool.h>
 
 
 //
