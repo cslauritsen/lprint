@@ -11,8 +11,6 @@
 #ifndef _LPRINT_H_
 #  define _LPRINT_H_
 
-#define strlcpy strncpy
-
 //
 // Include necessary headers...
 //
